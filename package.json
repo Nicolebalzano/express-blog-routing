@@ -1,0 +1,23 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "description": "Esercizio su express con routing",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolebalzano/express-blog-routing.git"
+  },
+  "type": "module",
+  "author": "Nicole Balzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolebalzano/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/Nicolebalzano/express-blog-routing#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
